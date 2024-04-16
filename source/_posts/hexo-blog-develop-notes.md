@@ -4,7 +4,7 @@ date: 2024-04-15 21:56:31
 categories: [tutorial]
 tags: [hexo, nvm, posts]
 lang: en
-cover: ../images/cover/01_海露港_no_word.png
+cover: https://ooo.0x0.ooo/2024/04/16/Om8pOa.png
 ---
 # Hexo Blog Develop Notes
 

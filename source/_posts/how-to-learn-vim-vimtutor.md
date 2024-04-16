@@ -4,7 +4,7 @@ date: 2024-04-16 15:06:23
 categories: [tutorial]
 tags: [vim]
 lang: en
-cover: ../images/cover/02_枫丹廷全貌.png
+cover: https://ooo.0x0.ooo/2024/04/16/Om8J7S.png
 ---
 # How to learn Vim? Vimtutor!
 
