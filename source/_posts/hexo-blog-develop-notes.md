@@ -1,8 +1,13 @@
 ---
 title: Hexo Blog Develop Notes
 date: 2024-04-15 21:56:31
-categories: [tutorial]
-tags: [hexo, nvm, posts]
+categories:
+  - Tutorials
+  - BlogDev
+tags:
+  - Hexo
+  - NVM
+  - Post
 lang: en
 cover: https://ooo.0x0.ooo/2024/04/16/Om8pOa.png
 ---
