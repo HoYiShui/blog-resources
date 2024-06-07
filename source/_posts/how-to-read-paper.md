@@ -2,8 +2,11 @@
 title: 如何读论文
 lang: en
 date: 2024-06-07 20:35:09
-categories: [Tutorials]
-tags: [Paper]
+categories: 
+    - Tutorials
+    - Workflow
+tags:
+    - Paper
 cover: https://ooo.0x0.ooo/2024/06/07/OJl6gG.jpg
 ---
 # 如何读论文
