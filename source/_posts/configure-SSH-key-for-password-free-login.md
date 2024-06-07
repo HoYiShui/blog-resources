@@ -1,8 +1,12 @@
 ---
 title: 如何通过配置密钥来实现 SSH 免密登录？
 date: 2024-04-21 22:08:04
-categories: [tutorial]
-tags: [ssh, login setup]
+categories:
+    - Tutorials
+    - OpsConfig
+tags:  
+    - SSH
+    - Login
 cover: https://ooo.0x0.ooo/2024/04/21/OpnhsM.jpg
 ---
 
