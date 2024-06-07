@@ -2,8 +2,12 @@
 title: 研 0 第一场进组面试复盘总结（nlp 组）
 lang: en
 date: 2024-04-19 15:03:46
-categories: [interview summary]
-tags: [nlp, Kmeans, Python, ML, Reinforement Learning]
+categories:
+    - Summary
+    - Interview
+tags: 
+    - ML
+    - NLP
 cover: https://ooo.0x0.ooo/2024/04/19/Op5vUU.jpg
 ---
 # 研 0 进组面试总结
